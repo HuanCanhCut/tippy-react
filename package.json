@@ -1,5 +1,5 @@
 {
-  "name": "@huanpenguin/tippy-react",
+  "name": "huanpenguin-tippy-react",
   "version": "1.0.1",
   "description": "React component for Tippy.js",
   "main": "dist/tippy-react.umd.js",
@@ -115,10 +115,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atomiks/tippyjs-react.git"
+    "url": "git+https://github.com/HuanCanhCut/tippy-react.git"
   },
   "bugs": {
-    "url": "https://github.com/atomiks/tippyjs-react/issues"
+    "url": "https://github.com/HuanCanhCut/tippy-react/issues"
   },
-  "homepage": "https://github.com/atomiks/tippyjs-react#readme"
+  "homepage": "https://github.com/HuanCanhCut/tippy-react#readme"
 }
